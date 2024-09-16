@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ListingPage Component restricts Paid User features for Free User 1`] = `
+<p>
+  <strong>
+    Salary Currency:
+  </strong>
+   
+  ?????
+</p>
+`;
+
+exports[`ListingPage Component restricts Paid User features for Free User 2`] = `
+<p>
+  <strong>
+    Job Geo:
+  </strong>
+   
+  ?????
+</p>
+`;
+
+exports[`ListingPage Component restricts Paid User features for Free User 3`] = `
+<p>
+  <strong>
+    Job Industry:
+  </strong>
+   
+  ?????
+</p>
+`;
